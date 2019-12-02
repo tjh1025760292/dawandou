@@ -1,0 +1,2 @@
+from poium import Page ,PageElement
+class BaiduPage(Page):
